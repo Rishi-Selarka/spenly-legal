@@ -1,6 +1,6 @@
 # Terms of Service
 
-Effective Date: July 1, 2025
+Effective Date: September 6, 2025
 
 ## Introduction
 
@@ -51,6 +51,18 @@ If we offer any paid services or subscriptions:
 - The provision of the paid service is conditioned upon your payment of the applicable fees.
 - Payment must be made by the methods specified within the App.
 - You are responsible for all charges incurred under your account, including applicable taxes.
+
+## Spenly Premium
+
+Overview: Spenly Premium is an optional in-app purchase that provides users with additional features, including an ad-free experience and exclusive tools.
+
+Payment & Billing: Payment for Spenly Premium is processed through Apple’s App Store using your Apple ID. By purchasing, you agree that all fees, including applicable taxes, will be charged to your Apple account.
+
+Auto-Renewal: If Spenly Premium is offered as a subscription, it will automatically renew at the end of each billing cycle unless you cancel at least 24 hours before the renewal date through your App Store account settings.
+
+Refunds: All purchases are final and non-refundable, except as required by law or as provided under Apple’s refund policies. Refund requests must be submitted directly to Apple.
+
+Changes to Pricing or Features: We may update the pricing, features, or tiers of Spenly Premium. Any material changes will be communicated within the App or via your App Store account. Continued use after changes take effect constitutes acceptance of the updated terms.
 
 ## Termination
 
