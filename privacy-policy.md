@@ -29,6 +29,12 @@ Our app uses Google AdMob for displaying advertisements. AdMob may collect and p
 - App usage data
 - Advertising identifiers (such as Apple's IDFA)
 
+## In-App Purchases (Spenly Premium)
+
+When you purchase Spenly Premium, payment transactions are processed securely through Apple’s App Store. We do not collect or store your full payment details, such as credit card numbers. Apple may provide us with limited information related to your purchase, such as confirmation of payment, subscription status, and country of purchase. We use this information solely to activate and manage your Premium features.
+
+Refunds, billing disputes, and subscription management are handled directly through your Apple ID account settings in accordance with Apple’s policies.
+
 ## How We Use Your Information
 
 We use the information we collect to:
