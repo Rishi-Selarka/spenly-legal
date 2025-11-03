@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective Date: July 1, 2025
+Effective Date: September 6, 2025
 
 ## Introduction
 
@@ -19,9 +19,9 @@ We may collect the following types of information:
 - **Usage Data**: Information about how you use the app, including features accessed, time spent in the app, and interaction with the interface.
 - **Device Information**: Information about your mobile device, including device type, operating system, unique device identifiers, IP address, and mobile network information.
 
-### Tracking Data
+### Tracking Data and Advertising
 
-Our app uses Google AdMob for displaying advertisements. AdMob may collect and process data about you, including:
+Our app uses Google AdMob to display personalized advertisements to non-Premium subscribers. AdMob may collect and process data about you, including:
 
 - Device identifiers
 - IP address
@@ -29,11 +29,30 @@ Our app uses Google AdMob for displaying advertisements. AdMob may collect and p
 - App usage data
 - Advertising identifiers (such as Apple's IDFA)
 
-## In-App Purchases (Spenly Premium)
+**Important**: Premium subscribers do not see advertisements and are not subject to AdMob data collection for advertising purposes.
 
-When you purchase Spenly Premium, payment transactions are processed securely through Apple’s App Store. We do not collect or store your full payment details, such as credit card numbers. Apple may provide us with limited information related to your purchase, such as confirmation of payment, subscription status, and country of purchase. We use this information solely to activate and manage your Premium features.
+## In-App Purchases and Subscriptions (Spenly Premium)
 
-Refunds, billing disputes, and subscription management are handled directly through your Apple ID account settings in accordance with Apple’s policies.
+### Subscription Data Collection
+
+When you purchase Spenly Premium, payment transactions are processed securely through Apple's App Store using Apple's StoreKit framework. We do not collect or store your full payment details, such as credit card numbers. 
+
+We collect and process the following subscription-related data:
+
+- **Purchase Confirmation**: Verification that a subscription has been successfully activated
+- **Subscription Status**: Whether your subscription is active, expired, or canceled
+- **Product Identifier**: The specific subscription plan you purchased (e.g., com.spenly.monthly.premium)
+- **Subscription Period**: Duration and renewal dates of your subscription
+- **Country of Purchase**: Geographic location where the purchase was made (provided by Apple)
+
+This information is stored locally on your device and, if you enable iCloud synchronization, in your personal iCloud account. We use this information solely to:
+
+- Activate and manage your Premium features
+- Ensure proper access control to subscription-only features
+- Provide customer support for subscription-related issues
+- Comply with legal and financial reporting requirements
+
+Refunds, billing disputes, and subscription management are handled directly through your Apple ID account settings in accordance with Apple's policies. You can manage your subscription at [https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions).
 
 ## How We Use Your Information
 
@@ -50,7 +69,19 @@ We use the information we collect to:
 
 ## App Tracking Transparency
 
-In accordance with Apple's App Tracking Transparency framework, we will request your permission before tracking your activity across other companies' apps and websites for the purpose of advertising or sharing with data brokers. You can change your choice at any time through your device settings.
+In accordance with Apple's App Tracking Transparency (ATT) framework, we will request your permission before tracking your activity across other companies' apps and websites for the purpose of advertising or sharing with data brokers. 
+
+**What This Means**:
+- The ATT permission request appears after you sign in to the app
+- If you grant permission, AdMob can provide personalized advertisements based on your activity
+- If you deny permission, you will still see advertisements, but they will not be personalized
+- Premium subscribers do not see advertisements regardless of their ATT choice
+
+**Your Control**: You can change your ATT choice at any time through your device settings:
+1. Open Settings on your iPhone
+2. Scroll down and tap "Spenly"
+3. Toggle "Allow Apps to Request to Track"
+4. Or go to Settings > Privacy & Security > Tracking to manage all app tracking preferences
 
 ## Data Sharing and Disclosure
 
