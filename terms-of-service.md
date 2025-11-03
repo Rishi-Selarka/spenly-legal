@@ -52,17 +52,92 @@ If we offer any paid services or subscriptions:
 - Payment must be made by the methods specified within the App.
 - You are responsible for all charges incurred under your account, including applicable taxes.
 
-## Spenly Premium
+## Spenly Premium Subscription Terms
 
-Overview: Spenly Premium is an optional in-app purchase that provides users with additional features, including an ad-free experience and exclusive tools.
+### Overview
 
-Payment & Billing: Payment for Spenly Premium is processed through Apple’s App Store using your Apple ID. By purchasing, you agree that all fees, including applicable taxes, will be charged to your Apple account.
+Spenly Premium is an optional auto-renewable subscription that provides users with enhanced features, including:
+- Ad-free experience (no banner or interstitial advertisements)
+- Premium themes (25+ exclusive color schemes)
+- Custom fonts (40+ typography options)
+- Export functionality (PDF and CSV exports)
+- Unlimited accounts and categories
+- Priority customer support
 
-Auto-Renewal: If Spenly Premium is offered as a subscription, it will automatically renew at the end of each billing cycle unless you cancel at least 24 hours before the renewal date through your App Store account settings.
+### Subscription Details
 
-Refunds: All purchases are final and non-refundable, except as required by law or as provided under Apple’s refund policies. Refund requests must be submitted directly to Apple.
+**Product Name**: Spenly Premium Monthly  
+**Product ID**: com.spenly.monthly.premium  
+**Duration**: 1 month (auto-renewing)  
+**Price**: The subscription price is displayed in the App Store and varies by region. Prices include applicable local taxes.
 
-Changes to Pricing or Features: We may update the pricing, features, or tiers of Spenly Premium. Any material changes will be communicated within the App or via your App Store account. Continued use after changes take effect constitutes acceptance of the updated terms.
+### Payment & Billing
+
+Payment for Spenly Premium is processed through Apple's App Store using your Apple ID at the time of purchase confirmation. By purchasing a subscription, you agree that:
+
+- All fees, including applicable taxes, will be charged to your Apple account
+- Payment is charged immediately upon confirmation of purchase
+- Your subscription will continue indefinitely until canceled
+
+### Auto-Renewal
+
+**Important**: Spenly Premium is an auto-renewable subscription. This means:
+
+- Your subscription automatically renews at the end of each billing cycle (monthly)
+- Your Apple account will be charged for renewal within 24 hours prior to the end of the current subscription period
+- The renewal charge will be at the same price as the initial subscription, unless you are notified of a price change in advance
+- You will continue to have access to Premium features as long as your subscription remains active
+
+### Cancellation
+
+You can cancel your subscription at any time to stop future charges. To cancel:
+
+1. Open the Settings app on your iPhone
+2. Tap your name at the top
+3. Tap "Subscriptions"
+4. Select "Spenly Premium"
+5. Tap "Cancel Subscription"
+
+**Or visit**: [https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)
+
+**Important Cancellation Terms**:
+- You must cancel at least 24 hours before the end of your current billing period to avoid being charged for the next period
+- Cancellation takes effect at the end of your current billing cycle
+- You will retain Premium access until the end of the paid period
+- No partial refunds are provided for the current subscription period
+
+### Refunds
+
+All subscription purchases are final and non-refundable, except as required by applicable law or as provided under Apple's refund policies. 
+
+To request a refund:
+- Contact Apple Support directly through the App Store
+- Refund requests are evaluated by Apple on a case-by-case basis
+- We do not process refunds directly; all refund decisions are made by Apple
+
+### Free Trial (If Applicable)
+
+If we offer a free trial period:
+- You will have access to all Premium features during the trial
+- You will not be charged during the trial period
+- Your subscription will automatically begin, and payment will be charged, when the trial ends unless you cancel before the trial period expires
+- You can cancel anytime during the trial without being charged
+
+### Changes to Pricing or Features
+
+We reserve the right to modify subscription pricing, features, or available tiers at any time. If we make material changes:
+
+- Existing subscribers will be notified via the App or email at least 30 days before changes take effect
+- Price increases will not affect your current subscription period; changes apply at the next renewal
+- If you do not agree to the new pricing or terms, you may cancel your subscription
+- Continued use of the subscription after changes take effect constitutes acceptance of the updated terms
+
+### Subscription Management
+
+You can view, modify, or cancel your subscription at any time through:
+- Your iPhone Settings > [Your Name] > Subscriptions
+- App Store > Account > Subscriptions
+- [https://apps.apple.com/account/subscriptions](https://apps.apple.com/account/subscriptions)
 
 ## Termination
 
